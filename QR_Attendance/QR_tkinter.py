@@ -7,7 +7,7 @@ from PIL import Image, ImageTk
 
 root = Tk()
 root.title("QR Code Generator")
-root.iconbitmap('C:/Users/Dinesh Singh Rai/Downloads/QR_Attendance-main/QR_Attendance')
+root.iconbitmap('C:/ISHAN/projects/QR_Attendance')
 root.geometry('500x550')
 
 def create_code():
